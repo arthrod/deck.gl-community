@@ -4,7 +4,7 @@ import pyarrow as pa
 import pyarrow.feather as feather
 
 url = "https://raw.githubusercontent.com/visgl/deck.gl-data/master/examples/trips/trips-v7.json"
-r = requests.get(url)
+r = requests.get(url, timeout=60)
 data = r.json()
 
 coord_num = 0
