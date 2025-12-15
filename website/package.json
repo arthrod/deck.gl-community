@@ -19,7 +19,7 @@
     "@deck.gl/google-maps": "^9.0.0",
     "@deck.gl/json": "^9.0.0",
     "@loaders.gl/csv": "^4.2.0",
-    "@loaders.gl/i3s": "^4.2.0",
+    "@loaders.gl/i3s": "^4.3.4",
     "@loaders.gl/json": "^4.2.0",
     "@loaders.gl/las": "^4.2.0",
     "@loaders.gl/obj": "^4.2.0",
