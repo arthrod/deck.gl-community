@@ -14,7 +14,7 @@
     "deck.gl": "^9.0.0"
   },
   "devDependencies": {
-    "vite": "^5.0.12"
+    "vite": "^6.4.2"
   },
   "volta": {
     "extends": "../../../package.json"
